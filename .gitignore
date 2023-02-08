@@ -1,0 +1,5 @@
+lead/utils/credentials.yml
+.idea/
+**/__pycache__/
+boilerplate.txt
+lead/local_datasource

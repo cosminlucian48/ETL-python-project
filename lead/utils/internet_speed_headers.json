@@ -1,0 +1,11 @@
+{
+    "Country code": "country_code",
+    "Name": "name",
+    "Continental region": "continental_region",
+    "NO. OF Internet Plans ": "no_internal_plans",
+    "Average price of 1GB (USD)": "avg_price_1gb_usd",
+    "Cheapest 1GB for 30 days (USD)": "cheapest_1gb_30days_usd",
+    "Most expensive 1GB (USD)": "most_expensive_1gb_usd",
+    "Average price of 1GB (USD at start of 2021)": "avg_1gb_start2021_usd",
+    "Average price of 1GB (USD â€“ at start of 2020)": "avg_1gb_start2020_usd"
+}
